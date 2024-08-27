@@ -46,11 +46,11 @@ gcaldasl2000@gmail.com
 <br />
 
 <div style='align-items:center; display:flex; justify-content:center;'>
-  <img align="left" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skapskap&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gcaldasl&show_icons=true&theme=radical&count_private=true" />
 
 
 
 
 
-<img align="left" alt="Gabriel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skapskap&theme=radical" />
+<img align="left" alt="Gabriel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcaldasl&theme=radical" />
 </div>
