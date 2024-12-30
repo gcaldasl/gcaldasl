@@ -5,7 +5,7 @@
 ## 🐱‍👤 About Me:
 
 <p align='center'>
-23 years old. Systems Analysis and Development student living in Brazil. Currently working into learning and improving my skills in React/Go.
+24 years old. Systems Analysis and Development student living in Brazil. Currently working into learning and improving my skills in React/Go.
 
 - ✍ You can find my projects here on Github.
 - 🔭 I’m currently working on learning Japanese in my spare time.
