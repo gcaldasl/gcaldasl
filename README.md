@@ -5,7 +5,7 @@
 ## 🐱‍👤 About Me:
 
 <p align='center'>
-24 years old. Software Engineering student living in Brazil. Currently working into learning and improving my skills in React/Go.
+24 years old. Software Engineering student living in Brazil. Currently working into learning and improving my skills in Go and DevOps.
 
 - ✍ You can find my projects here on Github.
 - 🔭 I’m currently working on learning Japanese in my spare time.
